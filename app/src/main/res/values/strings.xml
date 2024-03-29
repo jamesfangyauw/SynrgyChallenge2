@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+    <string name="swith_language">Switch to English?</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+    <string name="mutiply_simbol">x</string>
+    <string name="division_symbol">/</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second number</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="result">Result : 2 + 8 = 10</string>
+</resources>
